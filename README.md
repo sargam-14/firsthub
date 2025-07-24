@@ -1,3 +1,4 @@
 # firsthub
-this is my first Git Repository
-Author-sargam Gadi
+This is my first Git Repository
+<br>
+Author-Sargam Gadi
